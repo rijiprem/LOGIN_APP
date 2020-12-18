@@ -18,13 +18,13 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="celebration.html">ഓണാഘോഷങ്ങള്‍</a>
+                <a class="nav-link" href="celebration.php">ഓണാഘോഷങ്ങള്‍</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="plays.html">ഓണക്കളികള്‍</a>
+                <a class="nav-link" href="plays.php">ഓണക്കളികള്‍</a>
               </li>
               
             </ul>
